@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5d426a2-d9ef-4818-b3fb-b413bb5457d5/deploy-status)](https://app.netlify.com/sites/openbook-frontend/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
