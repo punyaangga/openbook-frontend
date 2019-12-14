@@ -1,3 +1,36 @@
 .something {
   color: red;
 }
+.menu{
+  width: 100%;
+
+  float: left;
+  background:white;
+}
+.buttonText{
+  float: right;
+  margin: 19px;
+}
+.button{
+  float: right;
+  margin: 10px;
+  width: 68px;
+  height: 38px;
+  background: #2F80ED;
+  border: none;
+  color: white;
+}
+.search{
+  float: right;
+  border-radius: 5px;
+  margin: 10px;
+  border: solid;
+  color: #2f80ed;
+}
+.slidee{
+width: 1440px;
+height: 350px;
+left: 0px;
+top: 65px;
+background: #2f80ed;;
+}
